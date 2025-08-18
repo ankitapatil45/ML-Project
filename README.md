@@ -5,15 +5,6 @@ It automates the process of car damage inspection by replacing manual inspection
 
 ---
 
-## 📸 Demo
-
-## Demo
-### App Screenshot
-![App Screenshot]("C:\Users\Chetan Habib\Downloads\Damaged_car (1).jpeg")
-
-### Example Input
-![Damaged Car]("C:\Users\Chetan Habib\Downloads\Screenshot (155) (1).png")
-
 ---
 
 ## 📖 Project Overview
