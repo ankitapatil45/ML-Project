@@ -7,11 +7,12 @@ It automates the process of car damage inspection by replacing manual inspection
 
 ## 📸 Demo
 
-### App Screenshot  
-![Car Damage Detection App](Screenshot.png)
+## Demo
+### App Screenshot
+![App Screenshot](assets/Screenshot.png)
 
-### Example Input Image  
-![Damaged Car](Damaged_car.jpeg)
+### Example Input
+![Damaged Car](assets/Damaged_car.jpeg)
 
 ---
 
