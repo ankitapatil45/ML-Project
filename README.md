@@ -9,10 +9,10 @@ It automates the process of car damage inspection by replacing manual inspection
 
 ## Demo
 ### App Screenshot
-![App Screenshot](assets/Screenshot.png)
+![App Screenshot]("C:\Users\Chetan Habib\Downloads\Damaged_car (1).jpeg")
 
 ### Example Input
-![Damaged Car](assets/Damaged_car.jpeg)
+![Damaged Car]("C:\Users\Chetan Habib\Downloads\Screenshot (155) (1).png")
 
 ---
 
